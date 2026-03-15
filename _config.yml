@@ -1,0 +1,5 @@
+title: OpenClaw Content Pipeline
+description: A blog about AI agents, automation, and content pipelines.
+theme: minima
+plugins:
+  - jekyll-feed
